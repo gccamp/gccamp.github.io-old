@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 好中文的样子</title>
+    <link>https://gc.camp/categories/</link>
+    <description>Recent content in Categories on 好中文的样子</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>本作品采用知识共享署名-非商业性使用 4.0 国际许可协议进行许可。转载请署名作者：wangpei。</copyright>
+    <lastBuildDate>Sat, 08 Jun 2019 17:36:02 +0800</lastBuildDate>
+    
+	<atom:link href="https://gc.camp/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>语用</title>
+      <link>https://gc.camp/categories/%E8%AF%AD%E7%94%A8/</link>
+      <pubDate>Sat, 08 Jun 2019 17:36:02 +0800</pubDate>
+      
+      <guid>https://gc.camp/categories/%E8%AF%AD%E7%94%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>爱学习</title>
+      <link>https://gc.camp/categories/%E7%88%B1%E5%AD%A6%E4%B9%A0/</link>
+      <pubDate>Fri, 24 May 2019 20:39:49 +0800</pubDate>
+      
+      <guid>https://gc.camp/categories/%E7%88%B1%E5%AD%A6%E4%B9%A0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>大师说</title>
+      <link>https://gc.camp/categories/%E5%A4%A7%E5%B8%88%E8%AF%B4/</link>
+      <pubDate>Fri, 24 May 2019 19:36:02 +0800</pubDate>
+      
+      <guid>https://gc.camp/categories/%E5%A4%A7%E5%B8%88%E8%AF%B4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>训练营</title>
+      <link>https://gc.camp/categories/%E8%AE%AD%E7%BB%83%E8%90%A5/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://gc.camp/categories/%E8%AE%AD%E7%BB%83%E8%90%A5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>爱与语文</title>
+      <link>https://gc.camp/categories/%E7%88%B1%E4%B8%8E%E8%AF%AD%E6%96%87/</link>
+      <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://gc.camp/categories/%E7%88%B1%E4%B8%8E%E8%AF%AD%E6%96%87/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
